@@ -1,0 +1,23 @@
+name: Half-year calendar
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      name: Half-year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.isocalendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
