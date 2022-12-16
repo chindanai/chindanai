@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/chindanai/chindanai/main/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+<img src="https://raw.githubusercontent.com/chindanai/chindanai/main/profile-3d-contrib/profile-night-rainbow.svg" alt="profile-3d-contrib" />
 
 <br clear="both">
 
