@@ -23,6 +23,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/chindanai/chindanai/main/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+
 <br clear="both">
 
 <div align="left">
